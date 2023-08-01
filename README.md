@@ -1,6 +1,6 @@
 # Optimierungsalgorithmen
 
-This repository tries to solve an optimization problem; fit a number of rectangles with random edge sizes (< L) into quadratic boxes of edge length L and minimize the number
+This repository tries to solve an optimization problem; fit a number of rectangles with random edge sizes (<= L) into quadratic boxes of edge length L and minimize the number
 of boxes. 
 For this several optimization algorithms are implemented, namely:
 - Local Search - RuleBased
